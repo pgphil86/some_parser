@@ -4,8 +4,8 @@ https://github.com/pgphil86
 ```
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ### Languages:
-### I. [Русский язык.](https://github.com/pgphil86/some_parser/tree/main/some_parser#i-проект-some-parser)
-### II. [English language.](https://github.com/pgphil86/some_parser/tree/main/some_parser#ii-some-parser)
+### I. [Русский язык.](https://github.com/pgphil86/some_parser?tab=readme-ov-file#i-русский-язык)
+### II. [English language.](https://github.com/pgphil86/some_parser?tab=readme-ov-file#ii-some-parser)
 ## I. Проект 'Some parser'.
 
 ### Описание проекта.
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 scrapy crawl spider_name -O result.json
 ```
-[Вверх.](https://github.com/pgphil86/some_parser/tree/main/some_parser#some-parser-created-by-pavel)
+[Вверх.](https://github.com/pgphil86/some_parser?tab=readme-ov-file#some-parser-created-by-pavel)
 ## II. 'Some parser'.
 
 ### Description of the project.
@@ -69,4 +69,4 @@ Now we can start the project.
 ```
 scrapy crawl spider_name -O result.json
 ```
-[Up.](https://github.com/pgphil86/some_parser/tree/main/some_parser#some-parser-created-by-pavel)
+[Up.](https://github.com/pgphil86/some_parser?tab=readme-ov-file#some-parser-created-by-pavel)
