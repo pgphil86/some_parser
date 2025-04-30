@@ -4,12 +4,12 @@ https://github.com/pgphil86
 ```
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ### Languages:
-### I. [Русский язык.]()
-### II. [English language.]()
+### I. [Русский язык.](https://github.com/pgphil86/some_parser/tree/main/some_parser#i-проект-some-parser)
+### II. [English language.](https://github.com/pgphil86/some_parser/tree/main/some_parser#ii-some-parser)
 ## I. Проект 'Some parser'.
 
 ### Описание проекта.
-Это парсер, который позволяет собирать данные с сайта alkoteka.com. По умолчанию стартовая страница - https://alkoteka.com/catalog/slaboalkogolnye-napitki-2. Драйвер работает на win10. 
+Это парсер, который позволяет собирать данные с сайта. Драйвер работает на win10. 
 ### Работа с проектом.
 Для начала необходимо клонировать репозиторий и зайти в рабочую директорию проекта.
 ```
@@ -37,11 +37,11 @@ pip install -r requirements.txt
 ```
 scrapy crawl spider_name -O result.json
 ```
-[Вверх.]()
+[Вверх.](https://github.com/pgphil86/some_parser/tree/main/some_parser#some-parser-created-by-pavel)
 ## II. 'Some parser'.
 
 ### Description of the project.
-This is a parser that allows you to collect data from a website. alkoteka.com. By default, the start page is https://alkoteka.com/catalog/slaboalkogolnye-napitki-2. Work on win10.
+This is a parser that allows you to collect data from a website. Work on win10.
 ### Working with the project.
 First, you need to clone the repository and go to the working directory of the project.
 ```
@@ -69,4 +69,4 @@ Now we can start the project.
 ```
 scrapy crawl spider_name -O result.json
 ```
-[Up.]()
+[Up.](https://github.com/pgphil86/some_parser/tree/main/some_parser#some-parser-created-by-pavel)
